@@ -1,0 +1,5 @@
+# If using custom domain with proper server config
+AddType application/octet-stream .unityweb
+AddType application/wasm .wasm
+AddEncoding gzip .gz
+AddEncoding br .br
